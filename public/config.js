@@ -1,0 +1,1 @@
+window.BABEL_SUPABASE={url:'https://vevzxhoqjtfkzkqfouhn.supabase.co',anonKey:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZldnp4aG9xanRma3prcWZvdWhuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTMyODM5OTcsImV4cCI6MjEwODg1OTk5N30.Q-zCeJjbRlGi65rnato-HQMx1lVC2EE1-glDlYRraBA'};

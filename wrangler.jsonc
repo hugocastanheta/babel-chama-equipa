@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "babel-chama-equipa",
+  "compatibility_date": "2026-10-29",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./public"
+  }
+}
